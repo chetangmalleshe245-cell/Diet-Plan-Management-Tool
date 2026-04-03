@@ -1,0 +1,22 @@
+# Compiled binaries
+backend/diet_api.cgi
+backend/*.o
+backend/*.out
+
+# Runtime data (don't commit real user data)
+data/otps.txt
+data/users.txt
+data/users/
+
+# Keep the data directory structure
+!data/.gitkeep
+!data/users/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp

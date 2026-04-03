@@ -1,0 +1,8 @@
+PLAN|PLAN_UID_1700_1700000100|UID_1700000001_1234|loss|2024-01-15|1605.50
+MEAL|Breakfast|Oats with skimmed milk, 2 boiled eggs, black coffee|401.00|25|40|8
+MEAL|Mid-Morning Snack|1 apple, 10 almonds|160.55|5|20|8
+MEAL|Lunch|Grilled chicken 150g, brown rice 1 cup, cucumber salad|561.93|40|55|10
+MEAL|Evening Snack|Low-fat Greek yogurt, 1 banana|160.55|12|25|3
+MEAL|Dinner|Paneer tikka 100g / Fish 150g, steamed broccoli, 2 chapatis|321.10|30|30|12
+NOTES|High protein, caloric deficit. Drink 3-4L water daily. Avoid sugar & processed food.
+END
